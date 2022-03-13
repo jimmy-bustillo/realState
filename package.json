@@ -1,12 +1,12 @@
 {
-  "name": "cafeteria",
+  "name": "real-state",
   "version": "1.0.0",
-  "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
+  "description": "RealState Web, hecha con SASS, BEM, y Gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Jimmy Bustillo",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
@@ -24,5 +24,13 @@
   "browserslist": [
     "last 1 version",
     "> 1%"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmy-bustillo/realState.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmy-bustillo/realState/issues"
+  },
+  "homepage": "https://github.com/jimmy-bustillo/realState#readme"
 }
